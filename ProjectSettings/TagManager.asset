@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - BossCollider
+  - Hitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - invisible
+  - Water
+  - UI
+  - player
+  - projectile
+  - bosslayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 3880132925
+    locked: 0
+  - name: front
+    uniqueID: 3924919385
+    locked: 0
