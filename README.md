@@ -1,2 +1,2 @@
-Cup of Coffee was myy first attempt at a story game
+Cup of Coffee was my first attempt at a story game
 The game follows an office worker called henry who's ordered around by his boss and is tasked with bringing in his coffee...
